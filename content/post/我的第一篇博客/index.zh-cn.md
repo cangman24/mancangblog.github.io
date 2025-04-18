@@ -1,5 +1,5 @@
 ---
-title: 首篇博文
+title: 关于建立个人博客的研究与思考
 description: 
 date: 2025-04-18
 slug: test-chinese
