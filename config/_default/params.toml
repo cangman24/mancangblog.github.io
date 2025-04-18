@@ -24,7 +24,7 @@ src = "img/avatar.png"
 [article]
 headingAnchor = false
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
 enabled = true
@@ -55,9 +55,9 @@ limit = 10
 [[widgets.page]]
 type = "toc"
 
-[opengraph.twitter]
-site = ""
-card = "summary_large_image"
+#[opengraph.twitter]
+#site = ""
+#card = "summary_large_image"
 
 [defaultImage.opengraph]
 enabled = false
