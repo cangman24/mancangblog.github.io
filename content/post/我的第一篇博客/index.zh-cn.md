@@ -5,7 +5,7 @@ date: 2025-04-18
 slug: test-chinese
 image: DSC02865.jpg
 categories:
-    - 测试
+    - 思考
 ---
 
 
@@ -64,3 +64,5 @@ Go语言的并发模型（Goroutine）使Hugo具备：
 ### 致谢
 
 感谢hugo生成器的支持和GitHub开源社区的技术文档贡献，以及Vercel平台提供部署的帮助。特别鸣谢Trrw为建站提供的巨大贡献，以及所有亲友的宝贵建议与鼓励。
+
+
